@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @abdullahzamir
 - 👀 I’m interested in Secuirty 
-- 🌱 I’m currently learning Network Security 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning to code  
+- 💞️ I’m looking to collaborate on basically anything 
+- 📫 How to reach me 
+   - Discord: GC#1869
 
 <!---
 abdullahzamir/abdullahzamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
