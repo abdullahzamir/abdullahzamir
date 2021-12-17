@@ -18,9 +18,10 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahzamir&show_icons=true&theme=tokyonight&line_height=27" >
 
+![](https://github-readme-stats.vercel.app/api?username=abdullahzamir&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahzamir&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
