@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how not to procrastinate   
 - 💞️ I’m looking to collaborate on basically anything 
 - 📫 How to reach me 
-   - Discord: GC#1869
+   - Discord: GC#9131
 
 <!---
 abdullahzamir/abdullahzamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
